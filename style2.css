@@ -1,0 +1,29 @@
+
+*{
+    margin: 0%;
+    padding: 10px;
+    border-style: hidden;
+
+}
+.qwe h1{
+    text-align: justify;
+    font-size: 50px;
+    background-color:red;
+    border-radius: 30px;
+    
+}
+.qwe{
+
+    width:900px;
+    position:relative;
+    height:;
+    background:transparent
+    border:color(display-p3 red green blue)
+    border: 2px solid;
+    backdrop-filter:blur(5px)
+    
+    
+    }
+.qwe{
+    background: url('pngtree-mountain-sunset-silhouette-orange-picture-image_1897236.png');
+}
